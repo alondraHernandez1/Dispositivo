@@ -4,8 +4,8 @@
 #include "ProxyEntrada.hpp"
 #include "ProxyHistorial.hpp"
 
-#define SSID "Iot"
-#define PASS  "12345678"
+#define SSID "TOTALPLAY-39E5B4"
+#define PASS  "S1443S0W21"
 #define HUELLA_DIGITAL "798bb177930734ec69314098399b857fc89321e8"
 #define DISPOSITIVO_ID "iot2"
 #define ID_PROYECTO "alondrahezx"
